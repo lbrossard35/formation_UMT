@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 version 3 pour gérer le conflit
+=======
+premier essai de conflit : ça va péter
+>>>>>>> branche1
